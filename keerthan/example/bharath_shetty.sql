@@ -1,1 +1,1 @@
-select 2 as col
+select 3 as col
