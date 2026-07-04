@@ -1,0 +1,9 @@
+  models:
+    - name: bharath_new
+      config: 
+        materialized: view
+    - name: bharath_new2
+      config:
+        materialized: table 
+   
+
